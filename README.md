@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I have used this to make my readme.md colorful https://github.com/Ileriayo/markdown-badges
 
 
 
